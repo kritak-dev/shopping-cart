@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+fixed-nav-bar {
+    position: sticky;
+    top: 0;
+}
