@@ -17,10 +17,10 @@ const Product = (props) => {
     const showCartItems = () => {
         const { src, alt, count } = props;
         return (
-            <div>
+            <div className="spacing">
                 <img src={src} alt={alt} />
-                <p>{count}</p>
-                <button id={alt} onClick={deleteItem}>Remove Item</button>
+                <p className="count">{count}</p>
+                <button className="delete-btn" id={alt} onClick={deleteItem}>Remove Item</button>
             </div>
         )
     }

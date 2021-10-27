@@ -57,8 +57,10 @@ export default function ProductList(props) {
 
        const cartView = (
            <div>
-               {cartItemsView}
-               <button onClick={displayCheckoutMessage}>Checkout</button>
+               <div className="grid">
+                {cartItemsView}
+               </div>
+               <button className="checkout-btn" onClick={displayCheckoutMessage}>Checkout</button>
            </div>
        )
 

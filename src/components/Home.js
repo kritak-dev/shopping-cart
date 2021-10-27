@@ -1,9 +1,9 @@
 
 const Home = () => {
     return (
-        <div>
-            This is home page.
-        </div>
+        <h1>
+            This is home page. Please proceed to Products section to see the posters.
+        </h1>
     );
 }
 

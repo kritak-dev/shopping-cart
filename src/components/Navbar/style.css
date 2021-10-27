@@ -11,7 +11,7 @@ a {
     color: white;
 }
 
-fixed-nav-bar {
+.fixed-nav-bar {
     position: sticky;
     top: 0;
 }
