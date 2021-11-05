@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.afa797cb.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.c9022334.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.c9022334.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.c3c4442c.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.c3c4442c.js.map",
+    "static/js/2.f8147c8f.chunk.js": "/shopping-cart/static/js/2.f8147c8f.chunk.js",
+    "static/js/2.f8147c8f.chunk.js.map": "/shopping-cart/static/js/2.f8147c8f.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.afa797cb.chunk.css.map": "/shopping-cart/static/css/main.afa797cb.chunk.css.map",
+    "static/js/2.f8147c8f.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.f8147c8f.chunk.js.LICENSE.txt",
+    "static/media/51pegasib.92257f01.jpg": "/shopping-cart/static/media/51pegasib.92257f01.jpg",
+    "static/media/ceres.335d0309.jpg": "/shopping-cart/static/media/ceres.335d0309.jpg",
+    "static/media/earth.78304c5d.jpg": "/shopping-cart/static/media/earth.78304c5d.jpg",
+    "static/media/enceladus.2a863120.jpg": "/shopping-cart/static/media/enceladus.2a863120.jpg",
+    "static/media/europa.2d73a2bd.jpg": "/shopping-cart/static/media/europa.2d73a2bd.jpg",
+    "static/media/grand_tour.ef438c96.jpg": "/shopping-cart/static/media/grand_tour.ef438c96.jpg",
+    "static/media/jupiter.38def77e.jpg": "/shopping-cart/static/media/jupiter.38def77e.jpg",
+    "static/media/kepler16b.f6e70781.jpg": "/shopping-cart/static/media/kepler16b.f6e70781.jpg",
+    "static/media/kepler186f.ac13d28c.jpg": "/shopping-cart/static/media/kepler186f.ac13d28c.jpg",
+    "static/media/mars.902f00bc.jpg": "/shopping-cart/static/media/mars.902f00bc.jpg",
+    "static/media/nightlife.e4afb498.jpg": "/shopping-cart/static/media/nightlife.e4afb498.jpg",
+    "static/media/superearth.60d2042a.jpg": "/shopping-cart/static/media/superearth.60d2042a.jpg",
+    "static/media/titan.38fe4b06.jpg": "/shopping-cart/static/media/titan.38fe4b06.jpg",
+    "static/media/trappist.037570f9.jpg": "/shopping-cart/static/media/trappist.037570f9.jpg",
+    "static/media/venus.dd0185b3.jpg": "/shopping-cart/static/media/venus.dd0185b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c4442c.js",
+    "static/js/2.f8147c8f.chunk.js",
+    "static/css/main.afa797cb.chunk.css",
+    "static/js/main.c9022334.chunk.js"
+  ]
+}
